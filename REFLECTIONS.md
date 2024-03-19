@@ -1,4 +1,3 @@
-I am making a change to demonstrate Github
 # reflection2
 ### What is LGBTQ+（YINING WANG)
 (From Wikipedia)

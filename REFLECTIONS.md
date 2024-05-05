@@ -1,4 +1,4 @@
-# reflection2
+# reflection2(Some inspiration and information about our projects)
 ### What is LGBTQ+（YINING WANG)
 (From Wikipedia)
 

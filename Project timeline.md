@@ -1,4 +1,4 @@
-Project timeline
+# Project timeline
 March 4th: 2 days to initially formulate ideas
 March 8th: 5 days, reading literature and collecting information
 March 12th: 3 days, mind mapping

@@ -1,4 +1,4 @@
-# we must to learn how to do the website
+# what should we do？
 * have a meeting
 * draw a draft about website
 * thinking about: Real World Problems We Need to Solve 

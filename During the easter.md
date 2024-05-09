@@ -1,9 +1,9 @@
-##❗️we must to learn how to do the website
-have a meeting
-draw a draft about website
-thinking about: Real World Problems We Need to Solve 
-              Recruiting Professionals
-              Publicity methods
-              Funding and sustainability
-              Technical Challenge
-              Legal and privacy issues...
+# we must to learn how to do the website
+* have a meeting
+* draw a draft about website
+* thinking about: Real World Problems We Need to Solve 
+1. Recruiting Professionals
+2. Publicity methods
+3. Funding and sustainability
+4. Technical Challenge
+5. Legal and privacy issues...

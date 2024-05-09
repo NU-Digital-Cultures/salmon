@@ -1,5 +1,5 @@
 # meeting notes
-1. We created a WeChat group chat for our group on 13 February.
+1. we created a WeChat group chat for our group on 13 February.
 2. We had our first conference call on Feb 17th, which was 2 hours long, and we had a heated discussion about our group topic, we were torn between topic 1 and topic 4, and finally we chose the LGBTQ topic, which we preferred to help solve the problem for this company.
 3.12 March we had our first offline meeting, we discussed about mind mapping and drew mind maps.
 4. 15 March we had our second teleconference, which lasted for 1 hour, to discuss how to revise the mind map, because we had a lot of ideas for the website, but it would be inaccurate to design a website that was too broad, so we discussed which unnecessary branches to remove.

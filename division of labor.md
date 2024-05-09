@@ -1,3 +1,8 @@
-yining wang,xiyue lv : make the ppt
+# dividion of labor
+Yining wang: make the ppt
 
-lei pen,jiawen you : make the website
+Xiyue Lyu:Sorting data
+
+Lei pen : make the website
+
+Jiawen You:translate the website

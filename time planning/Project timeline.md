@@ -7,4 +7,4 @@
 + April 26th: Final draft completed
 + May 7th: presentation
 + May 2-5th: Revision and checking of the content of the presentation
-+ May 5-9th: change the 
++ May 5-9th: change the details on GitHub
